@@ -46,7 +46,7 @@ for i in range(num_instances):
 
     print(fr''' <question type="{question_type}">
         <name>
-          <text>{question_name}</text>
+          <text>{question_name}_{i}</text>
         </name>
         <questiontext format="html">
           <text><![CDATA[<p dir="ltr" style="text-align: left;">{question_text}</p>]]></text>

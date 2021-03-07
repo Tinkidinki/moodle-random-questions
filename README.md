@@ -13,7 +13,7 @@ This is a small script for the creation of questions with the same template but 
 3. Edit the file following instructions in the file.
 4. Run `python3 question-template.py > file.xml`
 5. Select Question Bank -> Import on Moodle
-6. Select Moodle XML file format and upload file. 
+6. Select Moodle XML file format and upload `file.xml`. 
 
 ## Create a quiz that includes the random numerical question
 1. Create a quiz on Activity page.

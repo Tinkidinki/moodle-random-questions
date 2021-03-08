@@ -5,7 +5,7 @@ import math
 # Check the Moodle docs if you want to customize other variables such as penalty, etc.
 #--------------------------------------------------
 quiz_no = 1
-category="System Test 1"
+category="System Test 1" #Must already exist on Moodle
 question_name = "System Test Question 1"
 default_grade = 1.00 
 tolerance = 0.1

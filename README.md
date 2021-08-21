@@ -1,4 +1,4 @@
-# anti-plag
+# moodle-random-questions
 
 This is a small script for the creation of questions with the same template but varying numerical values for quizzes on Moodle. This is for numerical type questions only, and currently does not support MCQ, etc. If randomization is not involved, it might be easier to add a question directly on Moodle rather than importing a file.  
 
